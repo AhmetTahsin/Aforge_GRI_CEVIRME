@@ -1,0 +1,1 @@
+# goruntu-isleme-1.-odev
