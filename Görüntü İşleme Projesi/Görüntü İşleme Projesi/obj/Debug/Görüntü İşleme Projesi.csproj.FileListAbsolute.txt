@@ -1,0 +1,30 @@
+C:\Users\Ahmet Tahsin\source\repos\Görüntü İşleme Projesi\Görüntü İşleme Projesi\bin\Debug\Görüntü İşleme Projesi.exe.config
+C:\Users\Ahmet Tahsin\source\repos\Görüntü İşleme Projesi\Görüntü İşleme Projesi\bin\Debug\Görüntü İşleme Projesi.exe
+C:\Users\Ahmet Tahsin\source\repos\Görüntü İşleme Projesi\Görüntü İşleme Projesi\bin\Debug\Görüntü İşleme Projesi.pdb
+C:\Users\Ahmet Tahsin\source\repos\Görüntü İşleme Projesi\Görüntü İşleme Projesi\obj\Debug\Görüntü İşleme Projesi.csprojAssemblyReference.cache
+C:\Users\Ahmet Tahsin\source\repos\Görüntü İşleme Projesi\Görüntü İşleme Projesi\obj\Debug\Görüntü_İşleme_Projesi.Form1.resources
+C:\Users\Ahmet Tahsin\source\repos\Görüntü İşleme Projesi\Görüntü İşleme Projesi\obj\Debug\Görüntü_İşleme_Projesi.Properties.Resources.resources
+C:\Users\Ahmet Tahsin\source\repos\Görüntü İşleme Projesi\Görüntü İşleme Projesi\obj\Debug\Görüntü İşleme Projesi.csproj.GenerateResource.cache
+C:\Users\Ahmet Tahsin\source\repos\Görüntü İşleme Projesi\Görüntü İşleme Projesi\obj\Debug\Görüntü İşleme Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Tahsin\source\repos\Görüntü İşleme Projesi\Görüntü İşleme Projesi\obj\Debug\Görüntü İşleme Projesi.exe
+C:\Users\Ahmet Tahsin\source\repos\Görüntü İşleme Projesi\Görüntü İşleme Projesi\obj\Debug\Görüntü İşleme Projesi.pdb
+C:\Users\Ahmet Tahsin\source\repos\Görüntü İşleme Projesi\Görüntü İşleme Projesi\obj\Debug\Görüntü_İşleme_Projesi.Form2.resources
+C:\Users\Ahmet Tahsin\source\repos\Görüntü İşleme Projesi\Görüntü İşleme Projesi\obj\Debug\Görüntü_İşleme_Projesi.Form3.resources
+C:\Users\Ahmet Tahsin\source\repos\Görüntü İşleme Projesi\Görüntü İşleme Projesi\obj\Debug\Görüntü_İşleme_Projesi.Form4.resources
+C:\Users\Ahmet Tahsin\Desktop\Görüntü İşleme\Görüntü İşleme Projesi\Görüntü İşleme Projesi\obj\Debug\Görüntü İşleme Projesi.csprojAssemblyReference.cache
+C:\Users\Ahmet Tahsin\Desktop\Görüntü İşleme\Görüntü İşleme Projesi\Görüntü İşleme Projesi\obj\Debug\Görüntü_İşleme_Projesi.Form1.resources
+C:\Users\Ahmet Tahsin\Desktop\Görüntü İşleme\Görüntü İşleme Projesi\Görüntü İşleme Projesi\obj\Debug\Görüntü_İşleme_Projesi.Form2.resources
+C:\Users\Ahmet Tahsin\Desktop\Görüntü İşleme\Görüntü İşleme Projesi\Görüntü İşleme Projesi\obj\Debug\Görüntü_İşleme_Projesi.Form3.resources
+C:\Users\Ahmet Tahsin\Desktop\Görüntü İşleme\Görüntü İşleme Projesi\Görüntü İşleme Projesi\obj\Debug\Görüntü_İşleme_Projesi.Form4.resources
+C:\Users\Ahmet Tahsin\Desktop\Görüntü İşleme\Görüntü İşleme Projesi\Görüntü İşleme Projesi\obj\Debug\Görüntü_İşleme_Projesi.Form5.resources
+C:\Users\Ahmet Tahsin\Desktop\Görüntü İşleme\Görüntü İşleme Projesi\Görüntü İşleme Projesi\obj\Debug\Görüntü_İşleme_Projesi.Properties.Resources.resources
+C:\Users\Ahmet Tahsin\Desktop\Görüntü İşleme\Görüntü İşleme Projesi\Görüntü İşleme Projesi\obj\Debug\Görüntü İşleme Projesi.csproj.GenerateResource.cache
+C:\Users\Ahmet Tahsin\Desktop\Görüntü İşleme\Görüntü İşleme Projesi\Görüntü İşleme Projesi\obj\Debug\Görüntü İşleme Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Tahsin\Desktop\Görüntü İşleme\Görüntü İşleme Projesi\Görüntü İşleme Projesi\obj\Debug\Görüntü İşleme Projesi.exe
+C:\Users\Ahmet Tahsin\Desktop\Görüntü İşleme\Görüntü İşleme Projesi\Görüntü İşleme Projesi\obj\Debug\Görüntü İşleme Projesi.pdb
+C:\Users\Ahmet Tahsin\Desktop\Görüntü İşleme\Görüntü İşleme Projesi\Görüntü İşleme Projesi\bin\Debug\Görüntü İşleme Projesi.exe.config
+C:\Users\Ahmet Tahsin\Desktop\Görüntü İşleme\Görüntü İşleme Projesi\Görüntü İşleme Projesi\bin\Debug\Görüntü İşleme Projesi.exe
+C:\Users\Ahmet Tahsin\Desktop\Görüntü İşleme\Görüntü İşleme Projesi\Görüntü İşleme Projesi\bin\Debug\Görüntü İşleme Projesi.pdb
+C:\Users\Ahmet Tahsin\Desktop\Görüntü İşleme\Görüntü İşleme Projesi\Görüntü İşleme Projesi\obj\Debug\Görüntü_İşleme_Projesi.Form6.resources
+C:\Users\Ahmet Tahsin\Desktop\Görüntü İşleme\Görüntü İşleme Projesi\Görüntü İşleme Projesi\obj\Debug\Görüntü_İşleme_Projesi.Form7.resources
+C:\Users\Ahmet Tahsin\Desktop\Görüntü İşleme\Görüntü İşleme Projesi\Görüntü İşleme Projesi\obj\Debug\Görüntü_İşleme_Projesi.Form8.resources
